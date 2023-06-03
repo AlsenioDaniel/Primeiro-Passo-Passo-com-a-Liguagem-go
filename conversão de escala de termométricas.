@@ -1,0 +1,28 @@
+``` Go
+//Função de Pacotes Principal
+package main
+
+// importação do pacote
+import "fmt"
+
+//Declação da várial de Tempetara em Kelvin e a Váriavel de Ponto de Ebulição em Celsius
+  var TK int
+  const PEAC int = 100
+
+//Fucão Principal
+func main() {
+
+// conversão de Celsius Para Kelvin e o valor do ponto de Ebulição para Celsius 
+    TK := (PEAC + 273)
+    PEAC:= (TK - 273)
+
+    fmt.Printf("A conversão de Graus Celsius para Kelvin é = %v K\n",TK)
+    fmt.Printf("----------------------------\n")
+    fmt.Printf("A converção do valor do Ponto de Ebulição de kelvin para Graus Celsius é = %v °C", PEAC)
+
+}
+
+```
+
+
+
