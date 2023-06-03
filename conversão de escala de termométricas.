@@ -1,4 +1,4 @@
-``` Go
+
 //Função de Pacotes Principal
 package main
 
@@ -22,7 +22,6 @@ func main() {
 
 }
 
-```
 
 
 
