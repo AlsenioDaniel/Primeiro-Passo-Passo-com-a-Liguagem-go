@@ -1,4 +1,4 @@
-``` Go
+
 //Função de Pacotes Principal
 package main
 
@@ -21,8 +21,6 @@ func main() {
     fmt.Printf("A converção do valor do Ponto de Ebulição de kelvin para Graus Celsius é = %v °C", PEAC)
 
 }
-
-```
 
 
 
